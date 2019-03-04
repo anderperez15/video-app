@@ -1,0 +1,12 @@
+.list-video{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.title-type-one{
+	padding-bottom: 15px;
+	padding-left: 10px;
+	border-left: 2px;
+	box-shadow: 0 2px blue;
+}
